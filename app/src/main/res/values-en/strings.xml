@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="poster">Poster</string>
+    <string name="title">Title</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="release_date">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="runtime">Runtime</string>
+    <string name="rating">Rating</string>
+    <string name="overview">Overview</string>
+    <string name="title_setting">Setting</string>
+    <string name="detail">Detail</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="banner_fav">Favorite List</string>
+    <string name="empty_text">No Data</string>
+    <string name="release_reminder">Release Today Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="save">Save</string>
+    <string name="title_search">Search</string>
+    <string name="no_favorite">No Favorite</string>
+    <string name="release_today">was release today</string>
+    <string name="msg_daily">Awesome Film is waiting for you</string>
+    <string name="search_result">Search Result</string>
+    <string name="search_film">Search Movie</string>
+    <string name="search_tv_show">Search Tv Show</string>
+    <string name="search_not_found">Search Not Found</string>
+</resources>

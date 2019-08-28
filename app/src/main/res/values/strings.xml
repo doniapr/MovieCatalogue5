@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="poster">Poster</string>
+    <string name="title">Judul</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tvshow">Serial TV</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="popularity">Popularitas</string>
+    <string name="runtime">Durasi</string>
+    <string name="rating">Rating</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="title_setting">Pengaturan</string>
+    <string name="detail">Detail</string>
+    <string name="appwidget_text">Contoh</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="banner_fav">Daftar Favorit</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="release_reminder">Release Today Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="save">Simpan</string>
+    <string name="title_search">Cari</string>
+    <string name="no_favorite">Tidak Ada Favorit</string>
+    <string name="release_today">Telah Rilis Hari ini</string>
+    <string name="msg_daily">Semua Film Keren Menunggu Anda</string>
+    <string name="search_result">Hasil Pencarian</string>
+    <string name="search_film">Cari Film</string>
+    <string name="search_tv_show">Cari Tv Series</string>
+    <string name="search_not_found">Pencarian Tidak Ditemukan</string>
+</resources>
